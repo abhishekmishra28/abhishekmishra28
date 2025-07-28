@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Kr. Mishra</h1>
 <p align="center">
-  <b>Full Stack Developer | JavaScript Enthusiast | Problem Solver</b>
+  <b>Full Stack Developer | AI Enthusiast | Problem Solver</b>
 </p>
 
 ---
@@ -26,8 +26,6 @@ I'm a passionate **Full Stack Developer** with hands-on experience in building s
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/ShadCN-F4F4F5?logo=shadcnui&logoColor=000000" />
   <img src="https://img.shields.io/badge/Radix_UI-EFECFF?logo=radixui&logoColor=000000" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=20232A" />
-  <img src="https://img.shields.io/badge/Expo-4630EB?logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-24292F?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-ffffff?logo=vercel&logoColor=000000" />
@@ -38,29 +36,25 @@ I'm a passionate **Full Stack Developer** with hands-on experience in building s
 
 ### 🏆 Featured Projects
 
-- 📚 **[School Drive](#)**  
-  <sub>A complete school management system (mobile + web)</sub>
+- 📝 **[Insight Notes](#)**  
+  <sub>An AI-based note-taking application and creative writing assistant chatbot.</sub>
 
 - 💍 **[Soninavratna Jewellers](#)**  
-  <sub>Online jewelry shop built with Next.js & Supabase</sub>
+  <sub>Online jewelry shop built with Next.js & Supabase.</sub>
 
-- 📈 **[Study Streak](#)**  
-  <sub>Personal task tracker app with notifications & stats</sub>
-
-
+- 🌱 **[Arya Bhumi Seva Sansthan](#)**  
+  <sub>A non-profit organization committed to serving communities through initiatives in healthcare, education, and social welfare.</sub>
 ---
 
 ### 📚 Currently Learning
 
-- System Design (Scalability, Architecture Patterns)
 - Advanced DSA (120+ LeetCode questions solved)
-- Preparing for placements at top companies (e.g., Trilogy Innovations)
+- System Design (Scalability, Architecture Patterns)
+- MERN Stack (Mastering MongoDB, Express.js, React, Node.js)
+- Building scalable, production-ready applications
+- Preparing for placements at top tech companies
 
 ---
-
-### 💡 Fun Fact
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
 
@@ -74,7 +68,3 @@ I'm a passionate **Full Stack Developer** with hands-on experience in building s
 </p>
 
 ---
-
-<!--
-**abhishekmishra/abhishekmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
