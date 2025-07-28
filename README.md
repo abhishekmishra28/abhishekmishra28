@@ -36,14 +36,15 @@ I'm a passionate **Full Stack Developer** with hands-on experience in building s
 
 ### 🏆 Featured Projects
 
-- 📝 **[Insight Notes](#)**  
+- 📝 **[Insight Notes](https://insight-notes.vercel.app/)**  
   <sub>An AI-based note-taking application and creative writing assistant chatbot.</sub>
 
-- 💍 **[Soninavratna Jewellers](#)**  
+- 💍 **[Soninavratna Jewellers](https://soninavratnajewellers.in/)**  
   <sub>Online jewelry shop built with Next.js & Supabase.</sub>
 
-- 🌱 **[Arya Bhumi Seva Sansthan](#)**  
+- 🌱 **[Arya Bhumi Seva Sansthan](https://aryabhumisevasansthan.org/)**  
   <sub>A non-profit organization committed to serving communities through initiatives in healthcare, education, and social welfare.</sub>
+
 ---
 
 ### 📚 Currently Learning
