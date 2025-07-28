@@ -14,23 +14,23 @@ I'm a passionate **Full Stack Developer** with hands-on experience in building s
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD600?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=20232A" />
+  <img src="https://img.shields.io/badge/Next.js-ffffff?logo=nextdotjs&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-ffffff?logo=express&logoColor=000000" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/ShadCN-000000?logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radix_UI-FFFFFF?logo=radixui&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN-F4F4F5?logo=shadcnui&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Radix_UI-EFECFF?logo=radixui&logoColor=000000" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=20232A" />
+  <img src="https://img.shields.io/badge/Expo-4630EB?logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-24292F?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-ffffff?logo=vercel&logoColor=000000" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" />
 </p>
 
