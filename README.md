@@ -47,24 +47,13 @@ I'm a passionate **Full Stack Developer** with hands-on experience in building s
 - 📈 **[Study Streak](#)**  
   <sub>Personal task tracker app with notifications & stats</sub>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmishra" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmishra&layout=compact&hide=css,html" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekmishra&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
 
 ---
 
 ### 📚 Currently Learning
 
 - System Design (Scalability, Architecture Patterns)
-- Advanced DSA (75+ LeetCode questions solved)
+- Advanced DSA (120+ LeetCode questions solved)
 - Preparing for placements at top companies (e.g., Trilogy Innovations)
 
 ---
@@ -78,10 +67,10 @@ I'm a passionate **Full Stack Developer** with hands-on experience in building s
 ### 📬 Contact Me
 
 <p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abhishekmishra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="https://abhishekmishra.dev"><img src="https://img.shields.io/badge/Portfolio-000000?logo=about.me&logoColor=white" /></a>
+  <a href="mailto:kumarabhishekmishra28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abheeshakespeare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/kr_abhi__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://my-portfolio-gilt-gamma-71.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=about.me&logoColor=white" /></a>
 </p>
 
 ---
