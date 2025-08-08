@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kr. Mishra</h1>
 <p align="center">
-  <b>Full Stack Developer | AI Enthusiast | Problem Solver</b>
+  <b>Software Engineer | AI Enthusiast | Problem Solver</b>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with hands-on experience in building scalable web and mobile applications. I love turning ideas into reality using modern technologies and best practices. Currently, I'm focused on mastering **System Design** and sharpening my DSA skills for top tech placements.
+I'm a passionate **Software Engineer** with hands-on experience in building scalable web and mobile applications. I love turning ideas into reality using modern technologies and best practices. Currently, I'm focused on mastering **System Design** and sharpening my DSA skills for top tech placements.
 
 ---
 
@@ -65,7 +65,7 @@ I'm a passionate **Full Stack Developer** with hands-on experience in building s
   <a href="mailto:kumarabhishekmishra28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abheeshakespeare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/kr_abhi__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="https://my-portfolio-gilt-gamma-71.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-03A062?logo=about.me&logoColor=white" /></a>
+  <a href="https://www.abhishekmishra.me/"><img src="https://img.shields.io/badge/Portfolio-03A062?logo=about.me&logoColor=white" /></a>
 </p>
 
 ---
