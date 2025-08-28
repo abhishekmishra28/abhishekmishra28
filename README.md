@@ -39,7 +39,7 @@ I'm a passionate **Software Engineer** with hands-on experience in building scal
 - 📝 **[Insight Notes](https://insight-notes.vercel.app/)**  
   <sub>An AI-based note-taking application and creative writing assistant chatbot.</sub>
 
-- 💍 **[Soninavratna Jewellers](https://soni-jewellers-lyart.vercel.app/)**  
+- 💍 **[Soninavratna Jewellers](https://www.soninavratnajewellers.in/)**  
   <sub>Online jewelry shop built with Next.js & Supabase.</sub>
 
 - 🌱 **[Arya Bhumi Seva Sansthan](https://aryabhumisevasansthan.org/)**  
