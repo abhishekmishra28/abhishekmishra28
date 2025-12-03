@@ -7,7 +7,11 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Software Engineer** with hands-on experience in building scalable web and mobile applications. I love turning ideas into reality using modern technologies and best practices. Currently, I'm focused on mastering **System Design** and sharpening my DSA skills for top tech placements.
+I’m a third-year B.Tech Computer Science student at Lovely Professional University, driven by a passion for building practical, scalable solutions through smart use of technology. My interests lie at the intersection of **Machine Learning** and **Full Stack Development**—combining data-driven decision-making with solid application architecture.
+
+I enjoy exploring patterns and insights using machine learning, data analysis, and visualization, while also creating end-to-end applications with modern web technologies. I’m committed to continuous learning, adapting quickly to new tools and frameworks, and delivering solutions that are reliable, efficient, and user-centric.
+
+With a strong work ethic, a collaborative outlook, and an eagerness to learn, I aim to grow into a well-rounded engineer who can bridge intelligent data models with robust software design to solve real-world problems effectively.
 
 ---
 
