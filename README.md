@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kr. Mishra</h1>
 <p align="center">
-  <b>Software Engineer | AI Enthusiast | Problem Solver</b>
+  <b>Software Engineer | ML Enthusiast | Problem Solver</b>
 </p>
 
 ---
@@ -36,8 +36,8 @@ I'm a passionate **Software Engineer** with hands-on experience in building scal
 
 ### 🏆 Featured Projects
 
-- 📝 **[Insight Notes](https://insight-notes.vercel.app/)**  
-  <sub>An AI-based note-taking application and creative writing assistant chatbot.</sub>
+- 📝 **[Giffy Duck Notes](https://www.giffyduck.com/)**  
+  <sub>An AI-based note-taking application <b>Giffy Duck</b> and creative writing assistant chatbot.</sub>
 
 - 💍 **[Soninavratna Jewellers](https://www.soninavratnajewellers.in/)**  
   <sub>Online jewelry shop built with Next.js & Supabase.</sub>
@@ -49,7 +49,8 @@ I'm a passionate **Software Engineer** with hands-on experience in building scal
 
 ### 📚 Currently Learning
 
-- Advanced DSA (120+ LeetCode questions solved)
+- Advanced DSA (250+ LeetCode questions solved)
+- Solved 500+ DSA Problems across platforms like GeeksForGeeks, LeetCode, HackerRank, CodeForces and more.
 - System Design (Scalability, Architecture Patterns)
 - MERN Stack (Mastering MongoDB, Express.js, React, Node.js)
 - Building scalable, production-ready applications
@@ -63,7 +64,7 @@ I'm a passionate **Software Engineer** with hands-on experience in building scal
 
 <p>
   <a href="mailto:kumarabhishekmishra28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abheeshakespeare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhishekmishra028"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/kr_abhi__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
   <a href="https://www.abhishekmishra.me/"><img src="https://img.shields.io/badge/Portfolio-03A062?logo=about.me&logoColor=white" /></a>
 </p>
