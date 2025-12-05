@@ -46,8 +46,8 @@ With a strong work ethic, a collaborative outlook, and an eagerness to learn, I 
 - 💍 **[Soninavratna Jewellers](https://www.soninavratnajewellers.in/)**  
   <sub>Online jewelry shop built with Next.js & Supabase.</sub>
 
-- 🌱 **[Arya Bhumi Seva Sansthan](https://aryabhumisevasansthan.org/)**  
-  <sub>A non-profit organization committed to serving communities through initiatives in healthcare, education, and social welfare.</sub>
+- 🌱 **[Crop Recommendation System](https://crop-recommendation-system-45.streamlit.app/)**  
+  <sub>A Machine Learning project that recommends the most suitable crop based on soil composition and environmental conditions using various ML algorithms.</sub>
 
 ---
 
