@@ -55,12 +55,6 @@ With a strong work ethic, a collaborative outlook, and an eagerness to learn, I 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abhishekmishra2002?theme=light)
 
----
-
-### 🕒 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
