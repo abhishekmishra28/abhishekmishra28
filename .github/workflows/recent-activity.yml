@@ -1,0 +1,22 @@
+name: Update Recent Activity
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update GitHub Activity
+        uses: joshjohanning/recent-activity@main
+        with:
+          GH_USERNAME: abhishekmishra28
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
