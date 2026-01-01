@@ -57,7 +57,12 @@ With a strong work ethic, a collaborative outlook, and an eagerness to learn, I 
 
 
 ---
+## 🐍 Contribution Snake
 
+![snake animation](https://raw.githubusercontent.com/abhishekmishra28/abhishekmishra28/output/snake.svg)
+![snake dark](https://raw.githubusercontent.com/abhishekmishra28/abhishekmishra28/output/snake-dark.svg)
+
+---
 ### 📊 GitHub Overview
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekmishra28&theme=github)
