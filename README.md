@@ -51,6 +51,24 @@ With a strong work ethic, a collaborative outlook, and an eagerness to learn, I 
 
 ---
 
+### 💡 Problem-Solving Progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/abhishekmishra2002?theme=light)
+
+---
+
+### 🕒 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 📊 GitHub Overview
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekmishra28&theme=github)
+
+
 ### 📚 Currently Learning
 
 - Advanced DSA (250+ LeetCode questions solved)
