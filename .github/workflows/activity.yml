@@ -17,6 +17,5 @@ jobs:
         uses: Readme-Workflows/recent-activity@main
         with:
           GH_USERNAME: abhishekmishra28
-          CONFIG_FILE: .github/activity-config.yml
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
