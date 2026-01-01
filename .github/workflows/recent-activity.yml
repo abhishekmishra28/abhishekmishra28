@@ -14,9 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update GitHub Activity
-        uses: joshjohanning/recent-activity@main
+      - name: Update Activity
+        uses: jamesgeorge007/github-activity-readme@v0.3.6
         with:
-          GH_USERNAME: abhishekmishra28
+          COMMIT_MSG: "chore: update recent GitHub activity"
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
