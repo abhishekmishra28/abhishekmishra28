@@ -39,6 +39,16 @@ With a strong work ethic, a collaborative outlook, and an eagerness to learn, I 
 ---
 
 ### 🏆 Featured Projects
+- 🩸 **[BloodBridge](https://blood-bridge-rho.vercel.app/)**  
+  <sub>A full-stack MERN Blood Donation Management System connecting donors, recipients, and hospitals with real-time workflows.</sub>  
+
+  <sub>
+  • Role-based dashboards (Admin & User)  
+  • Slot booking & blood request system  
+  • 3-month donation restriction logic  
+  • JWT authentication & secure APIs  
+  • Admin analytics dashboard with charts  
+  </sub>
 
 - 📝 **[Giffy Duck Notes](https://www.giffyduck.com/)**  
   <sub>An AI-based note-taking application <b>Giffy Duck</b> and creative writing assistant chatbot.</sub>
