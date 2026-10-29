@@ -18,7 +18,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C3EF4&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems...;Turning+data+into+decisions+with+ML...;Currently+shipping+RateShield+%26+SplitMate...;500%2B+DSA+problems+solved+and+counting..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C3EF4&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems...;Turning+data+into+decisions+with+ML...;Currently+shipping+RateShield+%26+SplitMate...;800%2B+DSA+problems+solved+and+counting..." alt="Typing SVG" />
 </a>
 
 </div>
@@ -27,12 +27,12 @@
 
 ### 🚀 About Me
 
-I'm a third-year B.Tech Computer Science student at Lovely Professional University, building at the intersection of **Machine Learning** and **Full Stack Engineering**. I like tearing down real, messy problems — split expenses with floating-point drift, APIs getting hammered by bots, banking systems that need to stay correct under concurrency — and rebuilding them as clean, production-grade systems.
+I'm a fourth-year B.Tech Computer Science student at Lovely Professional University, building at the intersection of **Machine Learning** and **Full Stack Engineering**. I like tearing down real, messy problems — split expenses with floating-point drift, APIs getting hammered by bots, banking systems that need to stay correct under concurrency — and rebuilding them as clean, production-grade systems.
 
 - 🔭 Currently building **RateShield**, a Redis-backed rate limiting service, and refining **SplitMate**, an expense-splitting engine with an anomaly-detecting CSV importer
 - 🌱 Deepening my grip on **System Design**, distributed systems primitives (Redis, Lua scripting, concurrency), and advanced DSA
 - 💬 Ask me about **MERN**, ML pipelines, or API architecture
-- ⚡ Fun fact: I've solved 500+ DSA problems across LeetCode, GFG, HackerRank & Codeforces
+- ⚡ Fun fact: I've solved 800+ DSA problems across LeetCode, GFG, HackerRank & Codeforces
 
 ---
 
@@ -169,7 +169,7 @@ A from-scratch banking backend showcasing OOP design, concurrency-safe accounts,
 
 | Area | Focus |
 |---|---|
-| 🧠 DSA | 450+ LeetCode + 500+ across GFG, HackerRank, Codeforces |
+| 🧠 DSA | 550+ LeetCode + 800+ across GFG, HackerRank, Codeforces |
 | 🏗️ System Design | Scalability patterns, distributed caching, rate limiting |
 | ⚙️ MERN Mastery | Production-grade auth, testing, CI/CD pipelines |
 | 🎯 Placements | Preparing for SDE roles at top tech companies |
